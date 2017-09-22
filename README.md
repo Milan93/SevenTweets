@@ -13,7 +13,7 @@ create retweets (references to other nodes by name, not address, since we allow 
 list tweets,
 delete tweets,
 local search (only one node),
-distributed search (search on all nodes in network and return aggregated results0),
+distributed search (search on all nodes in network and return aggregated results0).
 SevenTweets is written in Python 3 with Flask framework and PostgreSQL database.
 
 Build packages source into Docker image and automated deploy is implemented using fabric3.
